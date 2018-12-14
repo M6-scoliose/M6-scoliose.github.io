@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M10 - Multidisciplinariteit",
-    "currentPage": "page10.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5214,10 +5214,10 @@
               "color": "#879a9f"
             },
             "SPAN": {
-              "color": "#879a9f"
+              "color": "#39776f"
             },
             "BLOCKQUOTE": {
-              "color": "#879a9f"
+              "color": "#39776f"
             }
           },
           "_name": "content2",
